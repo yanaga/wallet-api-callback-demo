@@ -1,2 +1,2 @@
-# wallet-api-callback
+# wallet-api-callback-demo
 Google Wallet API Callback Demo
